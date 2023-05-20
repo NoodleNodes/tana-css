@@ -1,4 +1,4 @@
-/* Override default line length to extend page width */
+/* Extend default line length to full width of page */
 html {
 --lineLength: 100%
 }

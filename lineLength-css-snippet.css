@@ -1,0 +1,4 @@
+/* Override default line length to extend page width */
+html {
+--lineLength: 100%
+}
